@@ -17,4 +17,9 @@ class Main {
 
     }
 }
-ljlj;lk
+Before swapping:
+A=70
+B=110
+After swapping:
+A=110
+B=70
